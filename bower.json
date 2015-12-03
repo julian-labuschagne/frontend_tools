@@ -1,0 +1,29 @@
+{
+  "name": "frontend_tools",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Julian Labuschagne <personxx@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  },
+  "devDependencies": {
+    "font-awesome": "~4.4.0",
+    "typopro-web": "~3.4.1",
+    "exo": "http://www.fontsquirrel.com/fonts/download/exo",
+    "angular": "~1.4.8",
+    "magnific-popup": "~1.0.0"
+  }
+}
