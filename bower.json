@@ -21,9 +21,6 @@
   },
   "devDependencies": {
     "font-awesome": "~4.4.0",
-    "typopro-web": "~3.4.1",
-    "exo": "http://www.fontsquirrel.com/fonts/download/exo",
-    "angular": "~1.4.8",
     "magnific-popup": "~1.0.0"
   }
 }
